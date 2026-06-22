@@ -3,7 +3,7 @@
 A single-player version of the popular game, Rubik's Race. The objective of the game is to move tiles to match the center of your 5x5 grid to the 3x3 target grid as quickly and efficiently as possible.
 
 ## 🚀 Live Demo
-Play the game instantly in your browser here: 👉 **[Rubik's Race Live](https://vinukranaweera.github.io/rubiks-race/)**
+Play the game instantly in your browser here: 👉 **[Rubik's Race Live](https://vinukranaweera.github.io/rubiks-race-deployment/)**
 
 *(Note: The initial load may take 15–30 seconds as CheerpJ caches the runtime components in your browser. Expand window screen to full-size to fully experience the game.)*
 
