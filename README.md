@@ -34,4 +34,12 @@ Play the game instantly in your browser here: 👉 **[Rubik's Race Live](https:/
 If you prefer to download and run the executable application natively on your computer:
 
 ### Prerequisites
-Download ``rubiks-race.jar``. Make sure you have Java Runtime Environment (JRE) or Java Development Kit (JDK) 17 or higher installed. 
+1. Download **[rubiks-race.jar](./rubiks-race.jar?raw=true)** to your machine.
+2. Ensure you have **Java 17 or higher** installed.
+3. Once you have Java installed, you can open the application directly using the Java Launcher.
+
+### Special Note for macOS Users
+When you try to open or extract the file, Mac may block it with a malware warning. Fix this by:
+1. Click **Done** on the error message.
+2. Open **System Settings** -> **Privacy & Security**.
+3. Scroll down to **Security** and click **Open Anyway** next to the blocked JAR file notice.
